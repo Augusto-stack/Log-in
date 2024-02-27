@@ -32,7 +32,8 @@ body{
     overflow: hidden;
     position: relative;
     z-index: 3;
-    width: 30%;
+    width: 30% max-content;
+    height: 45%;
     margin: 0 20px;
     padding: 170px 30px 54px;
     border-radius: 24px;
