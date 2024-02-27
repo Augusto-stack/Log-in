@@ -48,7 +48,7 @@ body{
     left: 50%;
     translate: -50% 0;
     width: 1000px;
-    height: 1000px;
+    height: 1000px; 
     border-radius: 50%;
     background: #216ce7;
 }
@@ -97,7 +97,7 @@ body{
 
 .form > input {
     border: 0;
-    padding: 0 24px;
+    padding: 10 24px;
     color: #222222;
     background: #ededed;
 }
